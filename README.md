@@ -91,7 +91,7 @@
   </style>
 </head>
  <section class="hero">
-    <h1Team Meta</h1>
+    <h1>Team Meta</h1>
     <p>Membuat dan Menyediakan Meta</p>
     <p>Menyediakan Layanan Kebersihan</p>
     <p>Mabok Bareng</p>
