@@ -91,16 +91,15 @@
   </style>
 </head>
  <section class="hero">
-    <h1>IXL is personalized learning</h1>
-    <p>Comprehensive K–12 curriculum</p>
-    <p>Trusted by educators and parents</p>
-    <p>Immersive learning experience</p>
-    <button class="btn">Become a member</button>
+    <h1Team Meta</h1>
+    <p>Membuat dan Menyediakan Meta</p>
+    <p>Menyediakan Layanan Kebersihan</p>
+    <p>Mabok Bareng</p>
   </section>
 
   <section class="features">
     <div class="feature-box">
-      <h3>Comprehensive K–12 curriculum</h3>
+      <h3></h3>
       <p>Math, Language arts, Science, Social studies, Spanish</p>
     </div>
     <div class="feature-box">
